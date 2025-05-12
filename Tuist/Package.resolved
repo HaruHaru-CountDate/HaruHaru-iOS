@@ -1,0 +1,24 @@
+{
+  "originHash" : "224f4a3911b5dc8cf68348b671bdcf73fecd76bfed812255ec623b384543c654",
+  "pins" : [
+    {
+      "identity" : "flexiblekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/eunchan2815/FlexibleKit",
+      "state" : {
+        "revision" : "a1c2c45b14bf5933ecebb678bac4d07d13650d2f",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "haruharu-designsystem",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/HaruHaru-CountDate/HaruHaru-DesignSystem",
+      "state" : {
+        "revision" : "5911c7edb62d50004b651c966eb471458bffcf5e",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
