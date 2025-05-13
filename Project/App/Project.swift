@@ -23,6 +23,14 @@ let project = Project(
             product: .app,
             bundleId: "com.eunchan.HaruHaru",
             deploymentTargets: .iOS("15.0"),
+            infoPlist: .extendingDefault(
+                with: [
+                    "UIApplicationSceneManifest": [
+                        "UIApplicationSupportsMultipleScenes": false,
+                    ],
+                    "UILaunchStoryboardName": "LaunchScreen",
+                ]
+            ),
             sources: ["iOS/Source/**"],
             resources: ["iOS/Resource/**"],
             scripts: [.codeQuality],
