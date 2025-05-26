@@ -23,6 +23,5 @@ let package = Package(
     name: "HaruHaru",
     dependencies: [
         .package(url: "https://github.com/eunchan2815/FlexibleKit", from: "1.0.5"),
-        .package(url: "https://github.com/HaruHaru-CountDate/HaruHaru-DesignSystem", from: "1.0.6")
     ]
 )

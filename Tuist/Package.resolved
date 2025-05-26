@@ -1,5 +1,5 @@
 {
-  "originHash" : "732c6e8d5f3d135355f3225e4b7376075d61baac09f481a2c2db963b9c09618d",
+  "originHash" : "0bad4dcc8e7d45dd091e8b6c197baa64859c673e034e003c3421c9df92898475",
   "pins" : [
     {
       "identity" : "flexiblekit",
@@ -8,15 +8,6 @@
       "state" : {
         "revision" : "6717a8a6ccbf94ca689fb2fe1e7ff61c38b01438",
         "version" : "1.0.5"
-      }
-    },
-    {
-      "identity" : "haruharu-designsystem",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/HaruHaru-CountDate/HaruHaru-DesignSystem",
-      "state" : {
-        "revision" : "46f470c34c2065917727fc6faccce8bc171ee588",
-        "version" : "1.0.6"
       }
     }
   ],
